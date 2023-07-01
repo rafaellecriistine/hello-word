@@ -3,3 +3,5 @@
 
 # hello-word
 meu primeiro exercício 🖊️
+
+readme in process...
