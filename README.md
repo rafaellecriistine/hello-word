@@ -13,9 +13,6 @@ Este é meu primeiro exercício criado como parte do curso de desenvolvimento de
 * fazer um commit
 * fazer um push
 
-![21_40_02_cat-typing](https://github.com/rafaellecriistine/hello-word/assets/138160167/9cae0859-33fa-410f-ab96-6b217d1752cc)
-
-
 # tecnogias utilizandas 👩‍💻
 * javascript
 * NodeJS
